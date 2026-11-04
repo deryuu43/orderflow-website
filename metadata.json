@@ -1,0 +1,6 @@
+{
+  "name": "OrderFlow — SaaS Manajemen Pesanan & Produksi Custom",
+  "description": "Sistem manajemen pemesanan, desain, produksi Kanban, QC, dan invoice untuk bisnis percetakan, konveksi, sablon, merchandise, dan manufaktur custom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
